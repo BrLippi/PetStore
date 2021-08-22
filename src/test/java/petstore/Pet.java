@@ -81,6 +81,7 @@ public class Pet {
                     .body("status",is("sold"))
             ;
         }
+
     @Test (priority = 4)
     public void excluirPet(){
         String petId = "1994060132";
