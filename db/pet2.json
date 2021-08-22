@@ -1,0 +1,18 @@
+{
+  "id": 1994060132,
+  "category": {
+    "id": 1,
+    "name": "AXS0102"
+  },
+  "name": "Vader",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20,
+      "name": "tst"
+    }
+  ],
+  "status": "sold"
+}
